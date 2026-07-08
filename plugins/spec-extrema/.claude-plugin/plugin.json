@@ -1,0 +1,8 @@
+{
+  "name": "spec-extrema",
+  "version": "0.1.0",
+  "description": "Método de especificação extrema em 8 etapas: estratégia, SPEC-MASTER + specs de módulo (MODULE-STANDARD), contratos de interface, UX, plano de testes falseável, ataque adversarial em contexto limpo e congelamento com registro de decisões.",
+  "author": {
+    "name": "berafaelli"
+  }
+}
