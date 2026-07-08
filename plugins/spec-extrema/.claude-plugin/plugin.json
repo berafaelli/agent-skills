@@ -1,0 +1,14 @@
+{
+  "name": "spec-extrema",
+  "version": "0.1.0",
+  "description": "Engenharia de especificação para projetos grandes e complexos: fatiamento em módulos, contratos entre fronteiras, etapa adversarial e congelamento de spec. Opera acima de spec-driven-development. Conteúdo em PT-BR.",
+  "author": {
+    "name": "berafaelli"
+  },
+  "license": "MIT",
+  "skills": "./skills",
+  "agents": [
+    "./agents/spec-adversario.md",
+    "./agents/auditor-de-contratos.md"
+  ]
+}

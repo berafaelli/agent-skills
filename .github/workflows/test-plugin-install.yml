@@ -68,3 +68,6 @@ jobs:
 
       - name: Install plugin
         run: claude plugin install agent-skills@addy-agent-skills --scope user
+
+      - name: Install spec-extrema plugin
+        run: claude plugin install spec-extrema@addy-agent-skills --scope user
