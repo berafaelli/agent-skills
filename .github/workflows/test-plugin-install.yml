@@ -71,3 +71,6 @@ jobs:
 
       - name: Install spec-extrema plugin
         run: claude plugin install spec-extrema@addy-agent-skills --scope user
+
+      - name: Install operacao-extrema plugin
+        run: claude plugin install operacao-extrema@addy-agent-skills --scope user
