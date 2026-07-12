@@ -5,10 +5,5 @@
   "author": {
     "name": "berafaelli"
   },
-  "license": "MIT",
-  "skills": "./skills",
-  "agents": [
-    "./agents/spec-adversario.md",
-    "./agents/auditor-de-contratos.md"
-  ]
+  "license": "MIT"
 }
