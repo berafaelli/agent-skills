@@ -1,0 +1,9 @@
+{
+  "name": "operacao-extrema",
+  "version": "0.1.0",
+  "description": "Operação de projetos em produção: auditoria de segurança do projeto inteiro (código e documentos), consumo robusto e econômico de APIs externas, e transformação de dados em planos de ação com metas mensuráveis. Conteúdo em PT-BR.",
+  "author": {
+    "name": "berafaelli"
+  },
+  "license": "MIT"
+}

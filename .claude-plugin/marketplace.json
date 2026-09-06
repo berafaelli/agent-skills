@@ -17,6 +17,20 @@
       "homepage": "https://github.com/addyosmani/agent-skills",
       "license": "MIT",
       "keywords": ["skills", "agents", "engineering", "spec", "tdd", "review", "ship"]
+    },
+    {
+      "name": "spec-extrema",
+      "source": "./plugins/spec-extrema",
+      "description": "Engenharia de especificação para projetos grandes: fatiamento em módulos, contratos entre fronteiras, etapa adversarial e congelamento de spec. Conteúdo em PT-BR.",
+      "license": "MIT",
+      "keywords": ["spec", "especificacao", "arquitetura", "contratos", "pt-br"]
+    },
+    {
+      "name": "operacao-extrema",
+      "source": "./plugins/operacao-extrema",
+      "description": "Operação de projetos em produção: auditoria de segurança de todo o projeto (código e documentos), consumo robusto e econômico de APIs externas, e dados transformados em planos de ação. Conteúdo em PT-BR.",
+      "license": "MIT",
+      "keywords": ["seguranca", "auditoria", "apis", "consumo", "dados", "estrategia", "pt-br"]
     }
   ]
 }
